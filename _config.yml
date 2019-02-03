@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 sass:
   sass_dir: assets/css
   style: compressed
