@@ -9,6 +9,8 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 
 - Big Data
 - Web Development
+- Cloud
+- Ops
 - Work in team
 - Continuous Integration
 - Trainer
@@ -28,6 +30,7 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 - Typescript ⭐
 - Git ⭐
 - Shell ⭐
+- Go
 
 ### Frameworks
 
@@ -38,8 +41,6 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 - lit-html
 - Ionic
 - RxJS
-- jQuery ⭐
-- Backbone
 - Bootstrap ⭐
 - Jekyll ⭐
 - Reveal.js
@@ -49,9 +50,8 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 
 #### BackEnd
 
-- jHipster ⭐
 - Spring Boot ⭐
-- Spring MVC, Tiles, JSP
+- jHipster
 - JPA
 - Guice
 - Node.js
@@ -66,6 +66,7 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 - RestAssured ⭐
 - Selenium ⭐
 - Jest
+- cypress
 
 #### Data
 
@@ -77,10 +78,15 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 - Postgres ⭐
 - Cassandra ⭐
 - Kafka ⭐
-- Elasticsearch
+- Elastic
 - MongoDB
 - MySQL
-- Solr
+- ActiveMQ
+
+#### Cloud
+
+- Azure
+- GCP
 
 #### DevOps
 
@@ -88,7 +94,9 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 - Jenkins Pipeline ⭐
 - Vagrant
 - Ansible
+- Terraform
 - Kubernetes
+- Helm
 - Gitlab CI
 - Github Actions
 
@@ -104,10 +112,11 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 
 ### 2019 to now - onepoint
 
-- DataEngineer on Hadoop DataLake
 - Lead Tech
+- DataEngineer certified on Azure and GCP
 - Work in a 10+ persons team
-- Work with Banque Populaire (i-BP)
+- Work with Banque Populaire (i-BP), Banque de France
+- Request for information (RFI)
 
 ### 2018 to 2019 - Thales Services
 
@@ -129,4 +138,4 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 - Chess ♜
 - Meetups (Nantes JUG, GDG Nantes, NantesJS)
 - Events (DevFest Nantes, Hashcode)
-- Codingame
+- Codingame, Kaggle
