@@ -1,4 +1,4 @@
-# Rémi PICARD - Full Stack Web Developer and Data Engineer
+# Rémi PICARD - Backend Developer
 
 <img src="assets/remi_picard.jpg" alt="Rémi PICARD" title="Rémi PICARD" style="border-radius: 50%;float:left;width: 60px;margin-right: 10px;"/>
 I am French Scala backend developer, based in Nantes. I am interested in new technologies.
@@ -50,6 +50,9 @@ I am French Scala backend developer, based in Nantes. I am interested in new tec
 #### BackEnd
 
 - Http4s ⭐
+- FS2 ⭐
+- Circe ⭐
+- Ciris ⭐
 - Spring Boot
 - jHipster
 - JPA
