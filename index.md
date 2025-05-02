@@ -1,48 +1,47 @@
 # Rémi PICARD - Full Stack Web Developer and Data Engineer
 
 <img src="assets/remi_picard.jpg" alt="Rémi PICARD" title="Rémi PICARD" style="border-radius: 50%;float:left;width: 60px;margin-right: 10px;"/>
-I am French web developer and data engineer, based in Nantes. I am interested in new technologies.
+I am French Scala backend developer, based in Nantes. I am interested in new technologies.
 
 <div style="clear:both;"></div>
 
 ## Skills
 
-- Big Data
 - Web Development
-- Cloud
+- Testing
 - Ops
 - Work in team
 - Continuous Integration
 - Trainer
+- Big Data
+- Cloud
 
 ## Technical stack
 
 ### Languages (Scripting, OOP, FP)
 
 - Scala ⭐
-- Java ⭐
-- Groovy ⭐
-- Kotlin
 - Python ⭐
-- PHP
-- HTML5 / CSS3 / SASS
-- Javascript ⭐
-- Typescript ⭐
 - Git ⭐
 - Shell ⭐
-- Go
+- Java
+- Groovy
+- Kotlin
+- PHP
+- HTML5 / CSS3 / SASS
+- Javascript
+- Typescript
 
 ### Frameworks
 
 #### FrontEnd
 
-- Angular ⭐
+- Angular
+- Bootstrap
 - React
-- lit-html
 - Ionic
 - RxJS
-- Bootstrap ⭐
-- Jekyll ⭐
+- Jekyll
 - Reveal.js
 - PWA
 - SEO
@@ -50,7 +49,8 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 
 #### BackEnd
 
-- Spring Boot ⭐
+- Http4s ⭐
+- Spring Boot
 - jHipster
 - JPA
 - Guice
@@ -61,26 +61,28 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 
 #### Testing
 
+- RobotFramework ⭐
 - ScalaTest ⭐
-- JUnit / Mockito ⭐
-- RestAssured ⭐
-- Selenium ⭐
+- JUnit / Mockito
+- RestAssured
+- Selenium
 - Jest
 - cypress
 
 #### Data
 
-- Neo4j ⭐
-- Hive ⭐
-- SparkSQL ⭐
-- Pandas
-- HBase
-- Postgres ⭐
 - Cassandra ⭐
+- SQL Server ⭐
 - Kafka ⭐
-- Elastic
-- MongoDB
+- Postgres
 - MySQL
+- Neo4j
+- Elastic
+- Pandas
+- Hive
+- SparkSQL
+- HBase
+- MongoDB
 - ActiveMQ
 
 #### Cloud
@@ -91,26 +93,31 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 #### DevOps
 
 - Docker ⭐
-- Jenkins Pipeline ⭐
+- Kubernetes ⭐
+- Helm ⭐
+- Gitlab CI ⭐
 - Vagrant
 - Ansible
 - Terraform
-- Kubernetes
-- Helm
-- Gitlab CI
+- Jenkins Pipeline
 - Github Actions
 
 #### Other
 
-- Gitflow ⭐
-- Gatling
+- Gatling ⭐
+- ApiGee ⭐
 - Activiti
 - ELK
 - APIMan
 
 ## Experiences
 
-### 2019 to now - onepoint
+### 2021 to now - Nickel
+
+- Scala Backend Developer
+- Work in a 20+ persons team on core banking
+
+### 2019 to 2021 - onepoint
 
 - Lead Tech
 - DataEngineer certified on Azure and GCP
@@ -134,8 +141,8 @@ I am French web developer and data engineer, based in Nantes. I am interested in
 
 ## Hobbies
 
-- Tennis 🎾
 - Chess ♜
+- Tennis 🎾
 - Meetups (Nantes JUG, GDG Nantes, NantesJS)
 - Events (DevFest Nantes, Hashcode)
 - Codingame, Kaggle
